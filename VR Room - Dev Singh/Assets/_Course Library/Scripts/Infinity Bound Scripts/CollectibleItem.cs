@@ -7,11 +7,19 @@ public class CollectibleItem : MonoBehaviour
 {
     public XRChest chest;
 
-    // This will be called by On Select Entered
     public void OnGrab(SelectEnterEventArgs args)
     {
         if (chest != null)
         {
+            XRGrabInteractable grabInteractable = GetComponent<XRGrabInteractable>();
+
+            if (grabInteractable != null)
+            {
+                // Disable the grab interactable to release it from the hand
+                grabInteractable.enabled = false;
+            }
+
+            // Now safely move the object into the chest
             chest.CollectItem(gameObject);
         }
     }
