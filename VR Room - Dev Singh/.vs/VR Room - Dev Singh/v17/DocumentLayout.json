@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1AA0404-936D-B8B3-1BD2-ED44C097D464}|Assembly-CSharp.csproj|c:\\users\\de367713\\documents\\github\\multimodalunity\\vr room - dev singh\\assets\\_course library\\scripts\\infinity bound scripts\\puzzle1manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AA0404-936D-B8B3-1BD2-ED44C097D464}|Assembly-CSharp.csproj|solutionrelative:assets\\_course library\\scripts\\infinity bound scripts\\puzzle1manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AA0404-936D-B8B3-1BD2-ED44C097D464}|Assembly-CSharp.csproj|c:\\users\\de367713\\documents\\github\\multimodalunity\\vr room - dev singh\\assets\\_course library\\scripts\\infinity bound scripts\\chestsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AA0404-936D-B8B3-1BD2-ED44C097D464}|Assembly-CSharp.csproj|solutionrelative:assets\\_course library\\scripts\\infinity bound scripts\\chestsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AA0404-936D-B8B3-1BD2-ED44C097D464}|Assembly-CSharp.csproj|C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\assets\\_course library\\scripts\\infinity bound scripts\\notebookcollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AA0404-936D-B8B3-1BD2-ED44C097D464}|Assembly-CSharp.csproj|solutionrelative:assets\\_course library\\scripts\\infinity bound scripts\\notebookcollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\ChestSocketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\ChestSocketHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\NotebookCollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\NotebookCollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +31,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Puzzle1Manager.cs",
-              "DocumentMoniker": "C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs",
-              "RelativeDocumentMoniker": "Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs",
-              "ToolTip": "C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs",
-              "RelativeToolTip": "Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T21:01:42.818Z",
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-11-19T22:19:45.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Puzzle1Manager.cs",
+              "DocumentMoniker": "C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs",
+              "ToolTip": "C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs",
+              "RelativeToolTip": "Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\Puzzle1Manager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:01:42.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ChestSocketHandler.cs",
               "DocumentMoniker": "C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\ChestSocketHandler.cs",
               "RelativeDocumentMoniker": "Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\ChestSocketHandler.cs",
@@ -47,12 +62,11 @@
               "RelativeToolTip": "Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\ChestSocketHandler.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAiwF4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T20:54:56.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T20:54:56.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NotebookCollectible.cs",
               "DocumentMoniker": "C:\\Users\\de367713\\Documents\\GitHub\\MultiModalUnity\\VR Room - Dev Singh\\Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\NotebookCollectible.cs",
               "RelativeDocumentMoniker": "Assets\\_Course Library\\Scripts\\Infinity Bound Scripts\\NotebookCollectible.cs",
